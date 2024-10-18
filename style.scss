@@ -44,7 +44,7 @@ a:visited {
     height: 30vh;
     background-color: #FFD9EC;
     img {
-        width: 15%;
+        width: 14%;
     }
     .TextoIntro {
         color: black;
@@ -64,7 +64,7 @@ p {
         width: 50%;
     }
     img {
-        width: 22vw;
+        width: 21%;
     }
 }
 .Orientacao {
@@ -74,7 +74,7 @@ p {
         height: 35vh;
         background-color: #FFD9EC;
         img {
-            width: 13vw;
+            width: 15vw;
         }
 }
 footer {
@@ -83,24 +83,17 @@ footer {
     align-items: center;
     background-color: #FF69B4;
     height: 11vh;
-    img {
-        width: 4%;
-    }
-    ul {
-        width: 20%;
-    }
-    li {
-        font-size: 1vw;
+    .IconesRedes {
         img {
-            width: 100%;
+            width: 3vw;
         }
     }
     .DesafioInfo {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        align-items: center;
+        align-items:center;
         width: 35%;
-        
+        font-size: 200%;
     }
 }

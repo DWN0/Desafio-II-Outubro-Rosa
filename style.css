@@ -53,7 +53,7 @@ a:visited {
   background-color: #FFD9EC;
 }
 .Intro img {
-  width: 15%;
+  width: 14%;
 }
 .Intro .TextoIntro {
   color: black;
@@ -75,7 +75,7 @@ p {
   width: 50%;
 }
 .PasseataConscientizacao img {
-  width: 22vw;
+  width: 21%;
 }
 
 .Orientacao {
@@ -86,7 +86,7 @@ p {
   background-color: #FFD9EC;
 }
 .Orientacao img {
-  width: 13vw;
+  width: 15vw;
 }
 
 footer {
@@ -96,17 +96,8 @@ footer {
   background-color: #FF69B4;
   height: 11vh;
 }
-footer img {
-  width: 4%;
-}
-footer ul {
-  width: 20%;
-}
-footer li {
-  font-size: 1vw;
-}
-footer li img {
-  width: 100%;
+footer .IconesRedes img {
+  width: 3vw;
 }
 footer .DesafioInfo {
   display: flex;
@@ -114,4 +105,5 @@ footer .DesafioInfo {
   justify-content: space-around;
   align-items: center;
   width: 35%;
+  font-size: 200%;
 }/*# sourceMappingURL=style.css.map */
